@@ -1,5 +1,5 @@
-name: "numpy-example"
-description: "Numpy example which computes some stats of a test frame."
+name: "nexrad-from-S3"
+description: "Simple plugin for getting radar data from Amazon S3."
 version: "0.1.0"
 source:
   architectures:
