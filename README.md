@@ -1,6 +1,6 @@
 # Plugin for NEXRAD reflectivity
 
-This is a simple plugin downloads NEXRAD files from Amazon S3 and extracts vertical profiles of base reflectivity above a selected latitude and longitude  
+This is a simple plugin that downloads NEXRAD files from Amazon S3 and extracts vertical profiles of base reflectivity above a selected latitude and longitude  
 
 ## Overview
 
