@@ -1,12 +1,10 @@
-name: "nexrad-from-S3"
-description: "Simple plugin for getting radar data from Amazon S3."
+name: "NEXRAD-reflectivity"
+description: "Simple plugin for getting vertical columns of reflectivity above a point Amazon S3."
 version: "0.1.0"
 source:
   architectures:
     - "linux/amd64"
     - "linux/arm64"
     - "linux/arm/v7"
-  url: "https://github.com/andrewsm240/nexrad-from-S3"
-
-  testing:
-    command: [test.py]
+  url: "https://github.com/andrewsm240/NEXRAD-reflectivity"
+branch: "main"
