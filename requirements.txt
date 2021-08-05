@@ -3,4 +3,8 @@ https://github.com/waggle-sensor/pywaggle/archive/refs/tags/v0.41.0.zip
 
 # Custom Python modules. Please add your requirements below.
 numpy
-opencv-python
+pyart
+nexradaws
+tempfile
+xarray
+datetime
