@@ -1,6 +1,6 @@
-# Numpy Plugin Example
+# Plugin for NEXRAD reflectivity
 
-This is a simple plugin which uses numpy to compute some stats on a test image. While not very useful on its own, it serves as a starting point for other plugin developers.
+This is a simple plugin downloads NEXRAD files from Amazon S3 and extracts vertical profiles of base reflectivity above a selected latitude and longitude  
 
 ## Overview
 
