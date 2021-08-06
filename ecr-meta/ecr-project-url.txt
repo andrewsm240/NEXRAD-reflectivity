@@ -1,1 +1,2 @@
 https://github.com/waggle-sensor/NEXRAD-reflectivity
+https://sagecontinuum.org/science/radar-reflectivity-satellite-derived-cloud-motion/
